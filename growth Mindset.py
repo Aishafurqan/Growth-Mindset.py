@@ -1,4 +1,4 @@
-function growthMindsetChallenge() {
+#function growthMindsetChallenge() {
     const challenges = {
         1: "Learn something new (watch a short tutorial or read an article).",
         2: "Embrace a mistake—write down what you learned from it.",
